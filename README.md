@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=pritamp20&theme=elegant&area_color=00000" alt="pritamp20" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamp20&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="pritamp20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamp20&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="pritamp20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamp20&show_icons=true&locale=en&theme=great-gatsby" alt="pritamp20" /></p>
 
