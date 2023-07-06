@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamp20&theme=juicyfresh&column=-1" alt="pritamp20" /></a> </p>
 
-- 🌱 I’m currently learning **Python and MySql**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and MySQL**
 
 - 📫 How to reach me **ppritam7@gmail.com**
 
