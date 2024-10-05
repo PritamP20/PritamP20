@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">I am Python enthusiast from India</h3>
-<p align="center"><a href="https://holopin.io/@pritamp20"><img src="https://holopin.io/api/user/board?user=pritamp20" alt="pritamp20"/></p>
+<!-- <p align="center"><a href="https://holopin.io/@pritamp20"><img src="https://holopin.io/api/user/board?user=pritamp20" alt="pritamp20"/></p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamp20&label=Profile%20views&color=ff8c00&style=flat" alt="pritamp20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamp20&theme=juicyfresh&column=-1" alt="pritamp20" /></a> </p>
