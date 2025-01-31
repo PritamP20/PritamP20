@@ -1,30 +1,86 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
-<h3 align="center">I am Python enthusiast from India</h3>
-<!-- <p align="center"><a href="https://holopin.io/@pritamp20"><img src="https://holopin.io/api/user/board?user=pritamp20" alt="pritamp20"/></p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamp20&label=Profile%20views&color=ff8c00&style=flat" alt="pritamp20" /> </p>
+<h3 align="center">A Blockchain Enthusiast | Full-Stack Developer | AI Agent Creator from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamp20&theme=juicyfresh&column=-1" alt="pritamp20" /></a> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=pritamp20&label=Profile%20views&color=ff8c00&style=flat" alt="pritamp20" /></p>
 
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Python and MySQL**
-
-- 📫 How to reach me **ppritam7@gmail.com**
-
-- ⚡ Fun fact **I know to solve all kinds of Rubix cubes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pritamp20&theme=juicyfresh&column=-1" alt="pritamp20" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=pritamp20&theme=elegant&area_color=00000" alt="pritamp20" /></p>
+### 👨‍💻 About Me:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamp20&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="pritamp20" /></p>
+- 🌱 **Currently learning**: Blockchain, Full-Stack Development, and AI Agent Creation
+- 💬 **Ask me about**: Blockchain, Full-Stack Development, AI, Python, MySQL
+- 📫 **Reach me**: [ppritam7@gmail.com](mailto:ppritam7@gmail.com)
+- ⚡ **Fun fact**: I can solve all kinds of Rubik's cubes!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamp20&show_icons=true&locale=en&theme=great-gatsby" alt="pritamp20" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamp20&theme=great-gatsby" alt="pritamp20" /></p>
+### 🛠️ Technologies I work with:
 
+<p align="left">
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
+  </a>
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original-wordmark.svg" alt="ethereum" width="50" height="50" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="50" height="50" />
+  </a>
+</p>
+
+---
+
+### 📈 My Stats:
+
+- **GitHub Stats:**
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamp20&show_icons=true&locale=en&theme=great-gatsby" alt="pritamp20" />
+  </p>
+
+- **Top Languages:**
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamp20&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="pritamp20" />
+  </p>
+
+- **GitHub Streak:**
+
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamp20&theme=great-gatsby" alt="pritamp20" />
+  </p>
+
+- **Activity Graph:**
+
+  <p align="center">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=pritamp20&theme=elegant&area_color=00000" alt="pritamp20" />
+  </p>
+
+---
+
+### 📞 Connect with Me:
+
+Feel free to connect with me on:
+
+- [GitHub](https://github.com/pritamp20)
+- [LinkedIn](https://www.linkedin.com/in/pritamp20)
+- [Twitter](https://twitter.com/pritamp20)
+
+---
+
+Thank you for visiting my profile! 😊
