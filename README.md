@@ -57,6 +57,9 @@
 - 🌐 **Full Stack dApp** - Developing a blockchain application with React and Solidity
 - 🤖 **AI Agent Framework** - Creating AI agents for automated blockchain interactions
 
+
+![Snake animation](https://github.com/PritamP20/PritamP20/blob/output/github-contribution-grid-snake.svg)
+
 ## 🤝 Connect With Me
 
 <p align="center">
