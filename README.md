@@ -46,10 +46,8 @@
 </div>
 
 ## 🐍 Contribution Snake
+![Snake animation](https://github.com/PritamP20/PritamP20/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <img src="https://github.com/pritamp20/pritamp20/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ## 💼 Current Projects
 
@@ -58,7 +56,7 @@
 - 🤖 **AI Agent Framework** - Creating AI agents for automated blockchain interactions
 
 
-![Snake animation](https://github.com/PritamP20/PritamP20/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🤝 Connect With Me
 
