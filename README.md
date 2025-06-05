@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<!--   <img src="https://leetcode-stats-six.vercel.app/api?username=pritamp20&theme=dark" alt="LeetCode Stats" /> -->
+<!--   <img src="https://leetcode-stats-six.vercel.app/api?username=pritamp20&theme=dark" alt="LeetCode Stats" /> --> 
 </div>
 
 ## 💫 About Me
