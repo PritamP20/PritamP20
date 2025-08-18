@@ -11,7 +11,7 @@
 <!--   <img src="https://leetcode-stats-six.vercel.app/api?username=pritamp20&theme=dark" alt="LeetCode Stats" /> --> 
 </div>
 
-## 💫 About Me
+##  About Me
 
 - 🎓 Currently in **2nd year of college**
 - 🔭 Working full-time on **Blockchain and full-stack projects**           
