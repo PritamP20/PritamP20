@@ -45,9 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamp20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/PritamP20/PritamP20/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 💼 Current Projects
 
@@ -71,34 +68,3 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
-
-<!-- 
-To enable the Snake animation:
-1. Create a new GitHub Actions workflow by creating a file at .github/workflows/snake.yml
-2. Add the following content to the file:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: pritamp20
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
