@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/Based%20In-Bangalore-brightgreen?style=for-the-badge" alt="location" />     
 </p>
 
-<div align="center">
-<!--   <img src="https://leetcode-stats-six.vercel.app/api?username=pritamp20&theme=dark" alt="LeetCode Stats" /> --> 
-</div>
 
 ##  About Me
 
