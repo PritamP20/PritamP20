@@ -9,7 +9,7 @@
 
 
 ##  About Me
-
+ 
 - 🎓 Currently in **3rd year of college**
 - 🔭 Working full-time on **Blockchain and full-stack projects**            
 - 🌱 Learning **DevOps and AI** side by side
