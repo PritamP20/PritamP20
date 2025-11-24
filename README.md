@@ -50,8 +50,6 @@
 - 🤖 **AI Agent Framework** - Creating AI agents for automated blockchain interactions
 
 
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
