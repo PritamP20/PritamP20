@@ -47,7 +47,7 @@
 
 - 🔗 **DeFi Protocol Development** - Building a decentralized finance solution
 - 🌐 **Full Stack dApp** - Developing a blockchain application with React and Solidity
-- 🤖 **AI Agent Framework** - Creating AI agents for automated blockchain interactions
+- 🤖 **AI Agent Framework** - Creating AI agents for automated blockchain interactions 
 
 
 ## 🤝 Connect With Me
