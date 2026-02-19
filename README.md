@@ -10,13 +10,13 @@
 
 ##  About Me      
  
-- 🎓 Currently in **3rd year of college**
-- 🔭 Working full-time on **Blockchain and full-stack projects**                
-- 🌱 Learning **DevOps and AI** side by side     
-- ⚡ Fun fact: **I can solve all kinds of Rubik's cubes!**
-- 📫 Reach me at: **pripritam7@gmail.com**   
+-  Currently in **3rd year of college**
+-  Working full-time on **Blockchain and full-stack projects**                
+-  Learning **DevOps and AI** side by side     
+-  Fun fact: **I can solve all kinds of Rubik's cubes!**
+-  Reach me at: **pripritam7@gmail.com**   
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pritamp20&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -43,14 +43,14 @@
 </div>
 
 
-## 💼 Current Projects
+##  Current Projects
 
-- 🔗 **DeFi Protocol Development** - Building a decentralized finance solution
-- 🌐 **Full Stack dApp** - Developing a blockchain application with React and Solidity
-- 🤖 **AI Agent Framework** - Creating AI agents for automated blockchain interactions 
+-  **DeFi Protocol Development** - Building a decentralized finance solution
+-  **Full Stack dApp** - Developing a blockchain application with React and Solidity
+-  **AI Agent Framework** - Creating AI agents for automated blockchain interactions 
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/pritamp20" target="_blank">
